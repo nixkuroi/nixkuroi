@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a Full-stack engineer & UX prototyper — Google, Microsoft, Gates Ventures, Futurewei. Building 9tail.com and scriptwist.com. Career work mostly closed-source or under NDA. 
+## Hi there 👋 I'm a full-stack engineer & UX prototyper — Google, Microsoft, Gates Ventures, Futurewei. Building 9tail.com and scriptwist.com. Career work mostly closed-source or under NDA. 
 
 <!--
 **nixkuroi/nixkuroi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
